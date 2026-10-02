@@ -1,17 +1,3 @@
-Today 8:22 PM
-Pasted text(20261002-145348).txt
-Document
-shall i choose the readme
-Pasted text(20261002-164352).txt
-Document
-act as github readme writting specailist write my readme for carrerpilot_AI before pushing it into github i want README like this which mentied it was ai interview coach one i want like that not exactly like that better than that
-
-Yes 👍. For a professional GitHub README, you don't need screenshots of every page. Take around 10–12 good screenshots that show the important features of CareerPilot AI.
-
-📸 Screenshots to take
-
-Create this folder in your project:
-
 CareerPilot-AI/
 │
 ├── docs/

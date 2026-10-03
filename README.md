@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://img.shields.io/badge/CareerPilot%20AI-v1.0-6d4aff?style=for-the-badge" alt="CareerPilot AI"/>
@@ -164,6 +165,9 @@ Secure signup and login with token-based sessions. Your resume, analysis, applic
 
 ```
 careerpilot-ai/
+=======
+CareerPilot-AI/
+>>>>>>> c20a3d4746f066c5c96af52c3cc8e396324d6dac
 │
 ├── 📁 backend/
 │   ├── 📄 requirements.txt
@@ -372,4 +376,32 @@ If this project helped you or impressed you, **give it a star!** It helps other 
 
 *Your career, planned by AI, one resume at a time.*
 
+<<<<<<< HEAD
 </div>
+=======
+AI Engineer | Software Engineer
+
+🎓 B.Tech — Computer Science & Engineering (AI & ML)
+
+🔗 LinkedIn:
+https://linkedin.com/in/madhukanike77
+
+🔗 GitHub:
+https://github.com/madhukanike
+
+🌐 Portfolio:
+https://kanikemadhu-portfolio.vercel.app
+
+📧 Email:
+mkanike90@gmail.com
+
+⭐ CareerPilot AI
+
+If you find this project useful or interesting, consider giving the
+repository a ⭐ on GitHub.
+
+📄 License
+
+This project is currently maintained as a personal portfolio and
+learning project.
+>>>>>>> c20a3d4746f066c5c96af52c3cc8e396324d6dac

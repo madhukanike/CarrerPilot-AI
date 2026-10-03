@@ -134,9 +134,7 @@ Secure signup and login with token-based sessions. Your resume, analysis, applic
 | Dashboard |
 |:---:|
 | <img src="docs/screenshots/01-dashboard.png" alt="Dashboard" width="800"/> |
-| Dashboard |
-|:---:|
-| <img src="docs/screenshots/01-dashboard.png" alt="Dashboard" width="800"/> |
+
 
 > Add more screenshots to `docs/screenshots/` (resume analyzer, job match, interview coach, tracker) and list them here.
 

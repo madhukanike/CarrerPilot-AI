@@ -374,7 +374,7 @@ If this project helped you or impressed you, **give it a star!** It helps other 
 
 *Your career, planned by AI, one resume at a time.*
 
-<<<<<<< HEAD
+
 </div>
 =======
 AI Engineer | Software Engineer

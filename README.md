@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/CareerPilot%20AI-v1.0-6d4aff?style=for-the-badge" alt="CareerPilot AI"/>
@@ -402,4 +402,3 @@ repository a ⭐ on GitHub.
 
 This project is currently maintained as a personal portfolio and
 learning project.
->>>>>>> c20a3d4746f066c5c96af52c3cc8e396324d6dac
